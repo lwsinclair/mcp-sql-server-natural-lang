@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/aman-panjwani-mcp-sql-server-natural-lang-badge.png)](https://mseep.ai/app/aman-panjwani-mcp-sql-server-natural-lang)
+
 # SQL Server Agent - Modal Context Protocol
 Here is the SQL Server Agent that let's you Interact with the SQL Server Database in the Natural Language leveraging the Modal Context Protocol as a layer between our LLMs and Data Source.
 
